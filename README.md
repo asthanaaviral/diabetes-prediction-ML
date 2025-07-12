@@ -19,8 +19,11 @@ A **machine learning-powered Streamlit web app** that predicts whether a person 
 
 ```
 diabetes-prediction-app/
+├── /Results
 ├── app.py                # Main Streamlit app
+├── diabetes.csv          
 ├── diabetes_model.pkl    # Trained ML model
+├── requirements.txt              
 ├── scaler.pkl            # Fitted StandardScaler
 └── README.md             # Project overview
 ```
