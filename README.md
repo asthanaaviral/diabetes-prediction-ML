@@ -2,6 +2,8 @@
 
 A **machine learning-powered Streamlit web app** that predicts whether a person is likely to have **diabetes** based on key health parameters. Built using the **PIMA Indian Diabetes Dataset**, this app allows users to interact with an easy-to-use interface and get real-time predictions from a trained model.
 
+Google Colab Link: https://colab.research.google.com/drive/1lilT1fhAJnFq5LeG-Sfxibcay1I4sgvU?usp=sharing
+
 ---
 
 ## Project Structure
