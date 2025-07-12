@@ -4,17 +4,6 @@ A **machine learning-powered Streamlit web app** that predicts whether a person 
 
 ---
 
-## Features
-
-- Predicts diabetes likelihood using 8 input medical attributes
-- Clean and modern **dark-themed UI** built with Streamlit
-- Powered by a **Random Forest Classifier** trained on preprocessed health data
-- Displays prediction result and confidence level
-- Easy to run locally or deploy online
-
----
-
-
 ## Project Structure
 
 ```
